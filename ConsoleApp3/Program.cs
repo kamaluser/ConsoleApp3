@@ -172,6 +172,8 @@ namespace ConsoleApp2
                 //int sum = 0;
                 //for (int i = 0; i < numlist.Length; i++) ;
                 //{
+                //    Console.Write("Eded daxil edin: ");
+                //    numlist[i] = Convert.ToInt32(Console.ReadLine());
                 //    sum += numlist[i];
                 //}
                 //Console.WriteLine(sum);
